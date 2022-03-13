@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-writer.desktop" score="4" last-seen="1647188124"/>
+    <application id="org.gnome.tweaks.desktop" score="15" last-seen="1647190650"/>
+    <application id="org.gnome.TextEditor.desktop" score="1" last-seen="1647134940"/>
+    <application id="google-chrome.desktop" score="193" last-seen="1647191561"/>
+    <application id="org.gnome.Software.desktop" score="34" last-seen="1647189413"/>
+    <application id="org.gnome.Calendar.desktop" score="0" last-seen="1647023105"/>
+    <application id="org.freedesktop.GnomeAbrt.desktop" score="3" last-seen="1647188069"/>
+    <application id="org.gnome.Nautilus.desktop" score="18" last-seen="1647191215"/>
+    <application id="io.github.shiftey.Desktop.desktop" score="7" last-seen="1647191561"/>
+    <application id="org.gnome.eog.desktop" score="3" last-seen="1647189442"/>
+    <application id="org.gnome.Tour.desktop" score="15" last-seen="1647023306"/>
+    <application id="org.gnome.Calculator.desktop" score="1" last-seen="1647115074"/>
+    <application id="org.gnome.Terminal.desktop" score="99" last-seen="1647191628"/>
+    <application id="com.discordapp.Discord.desktop" score="12" last-seen="1647188323"/>
+    <application id="org.gnome.Extensions.desktop" score="72" last-seen="1647139239"/>
+    <application id="org.gnome.Settings.desktop" score="37" last-seen="1647139775"/>
+  </context>
+</application-state>
