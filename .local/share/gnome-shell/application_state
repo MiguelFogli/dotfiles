@@ -1,21 +1,32 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="libreoffice-writer.desktop" score="4" last-seen="1647188124"/>
-    <application id="org.gnome.tweaks.desktop" score="15" last-seen="1647190650"/>
-    <application id="org.gnome.TextEditor.desktop" score="1" last-seen="1647134940"/>
-    <application id="google-chrome.desktop" score="193" last-seen="1647191561"/>
-    <application id="org.gnome.Software.desktop" score="34" last-seen="1647189413"/>
-    <application id="org.gnome.Calendar.desktop" score="0" last-seen="1647023105"/>
-    <application id="org.freedesktop.GnomeAbrt.desktop" score="3" last-seen="1647188069"/>
-    <application id="org.gnome.Nautilus.desktop" score="18" last-seen="1647191215"/>
-    <application id="io.github.shiftey.Desktop.desktop" score="7" last-seen="1647191561"/>
-    <application id="org.gnome.eog.desktop" score="3" last-seen="1647189442"/>
-    <application id="org.gnome.Tour.desktop" score="15" last-seen="1647023306"/>
-    <application id="org.gnome.Calculator.desktop" score="1" last-seen="1647115074"/>
-    <application id="org.gnome.Terminal.desktop" score="99" last-seen="1647191628"/>
-    <application id="com.discordapp.Discord.desktop" score="12" last-seen="1647188323"/>
-    <application id="org.gnome.Extensions.desktop" score="72" last-seen="1647139239"/>
-    <application id="org.gnome.Settings.desktop" score="37" last-seen="1647139775"/>
+    <application id="menulibre.desktop" score="19" last-seen="1648500467"/>
+    <application id="org.gnome.FileRoller.desktop" score="5" last-seen="1648675623"/>
+    <application id="gnome-session-properties.desktop" score="0" last-seen="1648941400"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="2" last-seen="1648678652"/>
+    <application id="software-properties-gtk.desktop" score="3" last-seen="1648426407"/>
+    <application id="org.gnome.tweaks.desktop" score="149" last-seen="1648678625"/>
+    <application id="konversation_konversation.desktop" score="13" last-seen="1648426761"/>
+    <application id="discord.desktop" score="911" last-seen="1648935976"/>
+    <application id="org.gnome.gedit.desktop" score="3" last-seen="1648941009"/>
+    <application id="org.gnome.eog.desktop" score="644" last-seen="1648773813"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="19" last-seen="1648678635"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1648403124"/>
+    <application id="org.gnome.Console.desktop" score="327" last-seen="1648941009"/>
+    <application id="snap-store_ubuntu-software.desktop" score="142" last-seen="1648942092"/>
+    <application id="gnome-initial-setup.desktop" score="2" last-seen="1648400322"/>
+    <application id="org.gnome.font-viewer.desktop" score="6" last-seen="1648499705"/>
+    <application id="google-chrome-unstable.desktop" score="3509" last-seen="1648942151"/>
+    <application id="gnome-control-center.desktop" score="37" last-seen="1648941606"/>
+    <application id="org.gnome.Polari.desktop" score="9" last-seen="1648427363"/>
+    <application id="firefox_firefox.desktop" score="41" last-seen="1648403220"/>
+    <application id="org.gnome.Nautilus.desktop" score="74" last-seen="1648692922"/>
+    <application id="org.gnome.Calculator.desktop" score="68" last-seen="1648610072"/>
+    <application id="system-config-printer.desktop" score="5" last-seen="1648777923"/>
+    <application id="apport-gtk.desktop" score="350" last-seen="1648940469"/>
+    <application id="update-manager.desktop" score="277" last-seen="1648940536"/>
+    <application id="org.gnome.Extensions.desktop" score="135" last-seen="1648940891"/>
+    <application id="org.gnome.Terminal.desktop" score="4" last-seen="1648942195"/>
   </context>
 </application-state>

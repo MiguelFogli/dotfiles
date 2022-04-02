@@ -1,6 +1,0 @@
-2022/03/13-13:30:12.162 5 Reusing MANIFEST /home/miguelbragafogli/.config/google-chrome-unstable/Default/Local Storage/leveldb/MANIFEST-000001
-2022/03/13-13:30:12.164 5 Recovering log #4
-2022/03/13-13:30:12.175 5 Reusing old log /home/miguelbragafogli/.config/google-chrome-unstable/Default/Local Storage/leveldb/000004.log 
-2022/03/13-13:31:46.456 5 Level-0 table #8: started
-2022/03/13-13:31:46.473 5 Level-0 table #8: 18034 bytes OK
-2022/03/13-13:31:46.506 5 Delete type=0 #4

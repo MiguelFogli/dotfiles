@@ -1,6 +1,0 @@
-2022/03/13-13:58:57.119 2688 Reusing MANIFEST /home/miguelbragafogli/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/03/13-13:58:57.119 2688 Recovering log #3
-2022/03/13-13:58:57.124 2688 Reusing old log /home/miguelbragafogli/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
-2022/03/13-14:00:33.151 26c0 Level-0 table #5: started
-2022/03/13-14:00:33.162 26c0 Level-0 table #5: 149303 bytes OK
-2022/03/13-14:00:33.169 26c0 Delete type=0 #3

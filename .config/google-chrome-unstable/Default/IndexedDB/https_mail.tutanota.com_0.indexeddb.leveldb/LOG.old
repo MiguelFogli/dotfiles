@@ -1,6 +1,0 @@
-2022/03/13-13:17:32.565 d2a Creating DB /home/miguelbragafogli/.config/google-chrome-unstable/Default/IndexedDB/https_mail.tutanota.com_0.indexeddb.leveldb since it was missing.
-2022/03/13-13:17:32.601 d2a Reusing MANIFEST /home/miguelbragafogli/.config/google-chrome-unstable/Default/IndexedDB/https_mail.tutanota.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/13-13:17:39.729 d2a Level-0 table #5: started
-2022/03/13-13:17:39.736 d2a Level-0 table #5: 10767 bytes OK
-2022/03/13-13:17:39.749 d2a Delete type=0 #3
-2022/03/13-13:17:39.750 cee Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
